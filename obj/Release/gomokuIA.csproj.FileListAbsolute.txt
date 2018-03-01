@@ -1,0 +1,10 @@
+C:\Users\Administrateur\gomoku\obj\Release\gomokuIA.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\gomoku\obj\Release\gomokuIA.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\pbrain-El_charbon.exe.config
+C:\Users\Administrateur\gomoku\obj\Release\pbrain-El_charbon.exe
+C:\Users\Administrateur\gomoku\obj\Release\pbrain-El_charbon.pdb
+C:\Users\Administrateur\pbrain-El_charbon.exe
+C:\Users\Administrateur\pbrain-El_charbon.pdb
+C:\Users\Administrateur\gomoku\pbrain-El_charbon.exe.config
+C:\Users\Administrateur\gomoku\pbrain-El_charbon.exe
+C:\Users\Administrateur\gomoku\pbrain-El_charbon.pdb

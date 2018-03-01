@@ -1,0 +1,132 @@
+______Process started______
+START 20
+DEBUG AAAAAAAAAAAAAAAA
+OK
+INFO max_memory 83886080
+INFO timeout_match 180000
+INFO timeout_turn 5000
+INFO game_type 0
+INFO rule 0
+INFO time_left 179911
+INFO folder C:\ProgramData
+TURN 10,7
+11,7
+INFO time_left 179890
+TURN 10,8
+10,6
+INFO time_left 179857
+TURN 10,9
+9,5
+INFO time_left 179788
+TURN 12,8
+8,4
+INFO time_left 179655
+TURN 7,2
+7,3
+RESTART
+OK
+INFO max_memory 83886080
+INFO timeout_match 180000
+INFO timeout_turn 5000
+INFO game_type 0
+INFO rule 0
+INFO time_left 179998
+INFO folder C:\ProgramData
+TURN 8,8
+9,8
+INFO time_left 179953
+TURN 9,9
+7,7
+INFO time_left 179866
+TURN 10,10
+11,11
+INFO time_left 179786
+TURN 8,10
+8,7
+INFO time_left 179607
+TURN 9,7
+7,6
+INFO time_left 179429
+TURN 6,5
+7,5
+INFO time_left 179167
+TURN 7,8
+7,4
+INFO time_left 178845
+TURN 7,3
+10,9
+INFO time_left 178415
+TURN 11,10
+12,10
+INFO time_left 177949
+TURN 13,9
+6,7
+INFO time_left 177366
+TURN 7,10
+9,10
+INFO time_left 176671
+TURN 5,7
+5,8
+INFO time_left 175882
+TURN 8,5
+4,9
+INFO time_left 175011
+TURN 3,10
+7,11
+INFO time_left 173957
+TURN 8,12
+10,12
+INFO time_left 172733
+TURN 9,13
+4,8
+INFO time_left 171318
+TURN 6,10
+3,8
+INFO time_left 169799
+TURN 6,8
+5,10
+INFO time_left 168065
+TURN 2,7
+4,10
+INFO time_left 166182
+TURN 4,11
+6,11
+INFO time_left 164285
+TURN 7,12
+2,8
+INFO time_left 162360
+TURN 1,8
+3,9
+INFO time_left 160242
+TURN 3,7
+5,11
+INFO time_left 158207
+TURN 4,7
+1,7
+RESTART
+OK
+INFO max_memory 83886080
+INFO timeout_match 180000
+INFO timeout_turn 5000
+INFO game_type 0
+INFO rule 0
+INFO time_left 179997
+INFO folder C:\ProgramData
+TURN 6,5
+7,5
+INFO time_left 179963
+TURN 6,6
+6,4
+INFO time_left 179892
+TURN 8,6
+5,6
+INFO time_left 179792
+TURN 4,7
+6,7
+INFO time_left 179630
+TURN 7,8
+5,5
+INFO time_left 179418
+TURN 5,4
+7,6
+END
